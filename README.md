@@ -16,6 +16,38 @@
 
 ---
 
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/MMunna5" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/moniruzzaman-munna-868b4b348/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:munnakmbd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.facebook.com/moniruzzaman.munna.1232" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="tel:+8801744501709">
+    <img src="https://img.shields.io/badge/Call_Me-2E8B57?style=for-the-badge&logo=phone&logoColor=white" alt="Call Mobile"/>
+  </a>
+  <a href="https://wa.me/8801744501709" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
+
+<div align="center">
+  <br/>
+  <i>"Learning continuously. Building meaningfully. Improving every day."</i>
+  <br/><br/>
+  ⭐ Thanks for visiting my GitHub profile!
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science & Engineering background.
@@ -114,36 +146,4 @@ A Laravel-based implementation of a school attendance management system.
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMunna5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   <br/>
   <img src="https://streak-stats.demolab.com?user=MMunna5&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/MMunna5" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/moniruzzaman-munna-868b4b348/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:munnakmbd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.facebook.com/moniruzzaman.munna.1232" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="tel:+8801744501709">
-    <img src="https://img.shields.io/badge/Call_Me-2E8B57?style=for-the-badge&logo=phone&logoColor=white" alt="Call Mobile"/>
-  </a>
-  <a href="https://wa.me/8801744501709" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</p>
-
-<div align="center">
-  <br/>
-  <i>"Learning continuously. Building meaningfully. Improving every day."</i>
-  <br/><br/>
-  ⭐ Thanks for visiting my GitHub profile!
 </div>
