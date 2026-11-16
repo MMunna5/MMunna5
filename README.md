@@ -104,6 +104,17 @@ A Laravel-based implementation of a school attendance management system.
 - Data Analysis and Model Optimization
 - Educational Technology & Automation
 
+## 🏆 Research & Conference Presentation
+
+### An Interpretable Ensemble Framework for Credit Card Fraud Detection on a Highly Imbalanced Dataset
+
+**Accepted and Presented** at the **5th International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE 2026)**.
+
+- **Conference dates:** 29–31 January 2026
+- **Venue:** Rajshahi University of Engineering & Technology (RUET), Rajshahi, Bangladesh
+- **Paper ID:** 464
+- **Co-authors:** Md Al Hasnain Bin Arif, Md. Samaun Islam, Ashis Kumar Mandal, and Md. Arshad Ali
+
 ---
 
 ## 📊 GitHub Analytics
