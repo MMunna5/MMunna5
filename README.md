@@ -10,15 +10,13 @@
   I build practical software solutions, automate everyday processes, and explore intelligent technologies.
 </p>
 
-<a href="https://github.com/MMunna5">
-  <img src="https://img.shields.io/badge/GitHub-MMunna5-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/moniruzzaman-munna-868b4b348/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:munnakmbd@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<p>
+  <a href="https://github.com/MMunna5">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/moniruzzaman-munna-868b4b348/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:munnakmbd@gmail.com">Email</a>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=MMunna5&style=flat-square&color=blue" alt="Profile views"/>
 
@@ -131,15 +129,11 @@ A Laravel-based implementation of a school attendance management system.
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://github.com/MMunna5">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/moniruzzaman-munna-868b4b348/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:munnakmbd@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://github.com/MMunna5">GitHub Profile</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/moniruzzaman-munna-868b4b348/">LinkedIn Profile</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:munnakmbd@gmail.com">Send Email</a>
 </div>
 
 <div align="center">
